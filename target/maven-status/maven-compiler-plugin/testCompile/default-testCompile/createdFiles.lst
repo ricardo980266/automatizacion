@@ -1,4 +1,8 @@
 stepDefinitions\Login_Steps.class
+<<<<<<< HEAD
 runners\runnerTest.class
+=======
+runners\runnersTest.class
+>>>>>>> 3c5f339ec8a30a25e7811cb043d29edc9bba5e07
 stepDefinitions\base\Hooks.class
 stepDefinitions\Contac_Us_Steps.class

@@ -39,7 +39,7 @@ public class Contact_Us_Po extends Base_PO {
 
     private @FindBy(xpath = "//form[@id='contact_form']/textarea[@name='message']")
     WebElement comment_TextField;
-    private @FindBy(xpath = "//form[@id='contact_form']/input[@name='last_name']")
+    private @FindBy(xpath = "//div[@id='form_buttons']/input[@value='SUBMIT']")
     WebElement submit_Button;
     private @FindBy(xpath = "//div[@id='contact_reply']/h1")
     WebElement successfullSubmission_Message;

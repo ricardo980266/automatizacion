@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 C:\Users\USUARIO\Desktop\automation\automatizacion\src\test\java\runners\runnerTest.java
 C:\Users\USUARIO\Desktop\automation\automatizacion\src\test\java\stepDefinitions\base\Hooks.java
 C:\Users\USUARIO\Desktop\automation\automatizacion\src\test\java\stepDefinitions\Contac_Us_Steps.java
 C:\Users\USUARIO\Desktop\automation\automatizacion\src\test\java\stepDefinitions\Login_Steps.java
+=======
+C:\Users\rmcaro\Documents\Automatizacion\automatition-framework\src\test\java\runners\runnersTest.java
+C:\Users\rmcaro\Documents\Automatizacion\automatition-framework\src\test\java\stepDefinitions\base\Hooks.java
+C:\Users\rmcaro\Documents\Automatizacion\automatition-framework\src\test\java\stepDefinitions\Contac_Us_Steps.java
+C:\Users\rmcaro\Documents\Automatizacion\automatition-framework\src\test\java\stepDefinitions\Login_Steps.java
+>>>>>>> 3c5f339ec8a30a25e7811cb043d29edc9bba5e07

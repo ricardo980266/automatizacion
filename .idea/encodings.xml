@@ -4,6 +4,9 @@
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/runners" charset="UTF-8" />
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/src/test/resources/features" charset="UTF-8" />
+=======
+>>>>>>> 3c5f339ec8a30a25e7811cb043d29edc9bba5e07
   </component>
 </project>

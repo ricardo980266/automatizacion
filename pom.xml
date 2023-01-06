@@ -20,7 +20,6 @@
             <artifactId>maven-plugin-plugin</artifactId>
             <version>3.7.0</version>
         </dependency>
-
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
@@ -33,14 +32,12 @@
             <version>1.9.1</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.10.0</version>
             <scope>test</scope>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -66,13 +63,11 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>7.10.1</version>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 libreria para crear numeros randoms -->
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -95,11 +90,11 @@
         </dependency>
     </dependencies>
     <build>
-<!--        <resources>-->
-<!--            <resource>-->
-<!--                <directory>src/test/java/runners</directory>-->
-<!--            </resource>-->
-<!--        </resources>-->
+        <resources>
+            <resource>
+                <directory>src/test/java/runners</directory>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

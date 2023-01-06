@@ -13,7 +13,7 @@ import org.testng.annotations.DataProvider;
         plugin = {"pretty", "html:target/cucumber", "json:target/cucumber.json"})
 
 
-public class runnerTest extends AbstractTestNGCucumberTests {
+public class runnersTest extends AbstractTestNGCucumberTests {
     @Override
     @DataProvider(parallel = true)
     public Object[][] scenarios() {
