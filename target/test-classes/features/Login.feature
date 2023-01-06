@@ -1,4 +1,4 @@
-@Login
+@Login @regression
 Feature: WebDriver university - Login Page
 
   Background:
