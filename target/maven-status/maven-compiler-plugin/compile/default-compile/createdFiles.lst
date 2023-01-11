@@ -1,5 +1,0 @@
-pageObjects\Login_PO.class
-pageObjects\Contact_Us_Po.class
-driver\DriverFactory.class
-pageObjects\Base_PO.class
-utils\Global_Vars.class

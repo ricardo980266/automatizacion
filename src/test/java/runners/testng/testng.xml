@@ -4,7 +4,7 @@
 <suite name="Suite" parallel="classes" data-provider-thread-count="5">
     <test name="Test">
         <classes>
-            <class name="runners.runnersTest"></class>
+            <class name="runners.runnerTest"></class>
         </classes>
     </test>
 </suite>
